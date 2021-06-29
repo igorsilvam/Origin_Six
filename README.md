@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img alt="Logo beautysalon" title="Proffy" src=".assets/images/logo.svg" />
+    <img alt="Logo beautysalon" title="Proffy" src="assets/images/logo.svg" />
 </h1>
 
 <br>
 
 <p align="center">
-  <img alt="Capa beautysalon" src=".assets/images/Capa.png" width="100%">
+  <img alt="Capa beautysalon" src="assets/images/Capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
