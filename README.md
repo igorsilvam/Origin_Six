@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O beautysalon e uma página de uma microempresa de salão com agendamentos, depoimentos contato e serviços.
+O beautysalon e uma página de uma microempresa de salão com agendamentos, depoimentos, contato e serviços.
 
 ## 🔖 Layout
 
