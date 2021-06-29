@@ -24,8 +24,8 @@ O beautysalon e uma página de uma microempresa de salão com agendamentos, depo
 
 Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Layout Web/Mobile](https://www.figma.com/file/egItdkNXLBNaHvUJP6V1o1/Origin-Six?node-id=0%3A1)
+- [Layout Web / Mobile](https://www.figma.com/file/egItdkNXLBNaHvUJP6V1o1/Origin-Six?node-id=0%3A1)
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by Rocketseat :wave: [Participe da comunidade!](https://discordapp.com/invite/gCRAFhc)
