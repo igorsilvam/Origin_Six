@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo beautysalon" title="Proffy" src="assets/images/logo.svg" />
+    <img alt="Logo beautysalon" title="Proffy" src="assets/images/Logo.svg" />
 </h1>
 
 <br>
